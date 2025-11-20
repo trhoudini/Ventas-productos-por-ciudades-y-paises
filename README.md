@@ -4,6 +4,7 @@ Título del Proyecto
 
 📊 Análisis de ventas de productos en el mundo entre el 2011 y el 2014.
 
+
 📖 Descripción del Proyecto
 
 El objetivo de este proyecto final es demostrar la capacidad de demostrar los conocimientos que he adquirido a lo largo de todo el programa de Data & Analytics de thePower. En el mismo, me he centrado en realizar un EDA y un dashboard de un conjunto de datos resultado de la unión de dos bases de datos.
@@ -74,7 +75,6 @@ Columnas del dataset:
 
 ● poblacion_pais: Población estimada del país desde donde se hace el pedido.
 
- 
 El análisis se ha centrado en comprender la estructura general del negocio, su evolución temporal, los segmentos de clientes que más compran, los modos de envío y niveles de prioridad de los pedidos, las categorías de productos más vendidas, subcategorías más vendidas, los factores económicos a tener en cuenta, el comportamiento geográfico de las ventas y la rentabilidad del negocio.
 
 Para analizar todo el proyecto he tenido que realizar todas estas fases:
@@ -92,6 +92,7 @@ Para analizar todo el proyecto he tenido que realizar todas estas fases:
 6. EDA (Análisis exploratorio de los datos).
 
 7. Dashboard con los datos más importantes.
+
 
 📁 Estructura del Proyecto
 
@@ -139,6 +140,7 @@ ventas-productos-por-paises/
 
 └── README.md                                                          # Descripción completa del proyecto
 
+
 🛠️ Instalación y Requisitos
 
 - Análisis y EDA
@@ -154,6 +156,7 @@ Esta parte se ha realizado en Python desde Visual Studio Code (VSCode). Requiere
 - Dashboard
 
 Se ha generado a través de Google Sheets.
+
 
 📊 Resultados y Conclusiones
 
@@ -203,6 +206,7 @@ Conclusiones finales:
 
 •	Rentable en determinadas categorías, pero con presión de margen debida a los descuentos.
 
+
 🔄 Próximos Pasos
 
 •	Añadir modelos predictivos para estimar ventas en años futuros.
@@ -215,9 +219,11 @@ Conclusiones finales:
 
 •	Integrar datos externos como inflación, PIB o índices logísticos.
 
+
 🤝 Contribuciones
 
 Si te interesa mejorar o extender este proyecto, las contribuciones son bienvenidas.
+
 
 ✒️ Autores y Agradecimientos
 
