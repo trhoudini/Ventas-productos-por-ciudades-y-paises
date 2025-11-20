@@ -1,9 +1,6 @@
 README.MD
 
-Título del Proyecto
-
-📊 Análisis de ventas de productos en el mundo entre el 2011 y el 2014.
-
+Título del Proyecto: 📊 Análisis de ventas de productos en el mundo entre el 2011 y el 2014.
 
 📖 Descripción del Proyecto
 
