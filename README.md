@@ -14,61 +14,61 @@ Tras unirlos, se generó un dataset final de más de 50.000 filas y 20 columnas,
 
 Columnas del dataset:
 
-● order_id: Identificador único del pedido realizado.
+• order_id: Identificador único del pedido realizado.
 
-● order_date: Fecha en la que se realizó el pedido.
+• order_date: Fecha en la que se realizó el pedido.
 
-● ship_date: Fecha en la que el pedido fue enviado al cliente.
+• ship_date: Fecha en la que el pedido fue enviado al cliente.
 
-● ship_mode: Tipo de envío utilizado (por ejemplo: entrega estándar, rápida o el mismo día).
+• ship_mode: Tipo de envío utilizado (por ejemplo: entrega estándar, rápida o el mismo día).
 
-● customer_name: Nombre del cliente que realizó la compra.
+• customer_name: Nombre del cliente que realizó la compra.
 
-● segment: Segmento de mercado al que pertenece el cliente (por ejemplo: consumidor, empresa, hogar).
+• segment: Segmento de mercado al que pertenece el cliente (por ejemplo: consumidor, empresa, hogar).
 
-● state: Estado o provincia donde se realizó el pedido.
+• state: Estado o provincia donde se realizó el pedido.
 
-● country: País donde se encuentra el cliente o se registró la venta.
+• country: País donde se encuentra el cliente o se registró la venta.
 
-● market: Región comercial global (por ejemplo: Asia Pacífico, Europa, América Latina, etc.).
+• market: Región comercial global (por ejemplo: Asia Pacífico, Europa, América Latina, etc.).
 
-● region: Subdivisión geográfica dentro del mercado (por ejemplo: norte, sur, centro).
+• region: Subdivisión geográfica dentro del mercado (por ejemplo: norte, sur, centro).
 
-● product_id: Identificador único del producto vendido.
+• product_id: Identificador único del producto vendido.
 
-● category: Categoría general del producto (por ejemplo: Tecnología, Muebles, Suministros de oficina).
+• category: Categoría general del producto (por ejemplo: Tecnología, Muebles, Suministros de oficina).
 
-● sub_category: Subcategoría del producto (por ejemplo: Sillas, Teléfonos, Papel).
+• sub_category: Subcategoría del producto (por ejemplo: Sillas, Teléfonos, Papel).
 
-● product_name: Nombre o descripción del producto.
+• product_name: Nombre o descripción del producto.
 
-● sales: Valor total de las ventas de ese pedido (importe monetario).
+• sales: Valor total de las ventas de ese pedido (importe monetario).
 
-● quantity: Cantidad de unidades del producto vendidas.
+• quantity: Cantidad de unidades del producto vendidas.
 
-● discount: Descuento aplicado al producto en esa venta (en proporción, entre 0 y 1).
+• discount: Descuento aplicado al producto en esa venta (en proporción, entre 0 y 1).
 
-● profit: Beneficio neto obtenido por la venta del producto (ventas menos costes).
+• profit: Beneficio neto obtenido por la venta del producto (ventas menos costes).
 
-● shipping_cost: Coste del envío asociado al pedido.
+• shipping_cost: Coste del envío asociado al pedido.
 
-● order_priority: Nivel de prioridad asignado al pedido (por ejemplo: alta, media, baja).
+• order_priority: Nivel de prioridad asignado al pedido (por ejemplo: alta, media, baja).
 
-● year: Año en que se realizó el pedido.
+• year: Año en que se realizó el pedido.
 
-● admin_name: Nombre administrativo de la división territorial (estado o provincia).
+• admin_name: Nombre administrativo de la división territorial (estado o provincia).
 
-● latitud: Coordenada geográfica de latitud correspondiente al lugar del pedido.
+• latitud: Coordenada geográfica de latitud correspondiente al lugar del pedido.
 
-● longitud: Coordenada geográfica de longitud correspondiente al lugar del pedido.
+• longitud: Coordenada geográfica de longitud correspondiente al lugar del pedido.
 
-● poblacion: Población estimada de la ciudad o región donde se realizó el pedido.
+• poblacion: Población estimada de la ciudad o región donde se realizó el pedido.
 
-● latitud_pais: Coordenada geográfica de latitud correspondiente del país desde donde se hace el pedido.
+• latitud_pais: Coordenada geográfica de latitud correspondiente del país desde donde se hace el pedido.
 
-● longitud_pais: Coordenada geográfica de longitud correspondiente del país desde donde se hace el pedido.
+• longitud_pais: Coordenada geográfica de longitud correspondiente del país desde donde se hace el pedido.
 
-● poblacion_pais: Población estimada del país desde donde se hace el pedido.
+• poblacion_pais: Población estimada del país desde donde se hace el pedido.
 
 El análisis se ha centrado en comprender la estructura general del negocio, su evolución temporal, los segmentos de clientes que más compran, los modos de envío y niveles de prioridad de los pedidos, las categorías de productos más vendidas, subcategorías más vendidas, los factores económicos a tener en cuenta, el comportamiento geográfico de las ventas y la rentabilidad del negocio.
 
